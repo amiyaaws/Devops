@@ -1,0 +1,7 @@
+Dear Google customer,
+
+
+You are receiving this email because you are a Google Cloud Platform, Firebase, or API customer.
+
+
+Our records indicate that your billing account: 01861D-23A10B-40211E is past due or does not have valid payment information associated with it. This may happen if your credit card has expired or was cancelled, and we haven't received valid payment information from you.
